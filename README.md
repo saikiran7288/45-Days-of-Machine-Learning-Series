@@ -26,6 +26,7 @@ Annamoly Detection
 
 
 Renforcement Learning:
+Q -Learning  etc..
 
 
 
