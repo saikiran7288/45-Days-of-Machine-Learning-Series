@@ -35,5 +35,12 @@ Q -Learning  etc..
 
 Here will see Basic to Advanced level
 
+# Day 2
+## Importance Of Data For Machine Learning
+
+
+# Day 3
+
+
 
 
